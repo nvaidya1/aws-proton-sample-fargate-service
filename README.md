@@ -4,7 +4,7 @@ This sample contains a simple Dockerfile and static website that can be deployed
 
 ## Security
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information. This is a test message.
 
 ## License
 
